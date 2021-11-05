@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
@@ -22,12 +18,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Highly skilled, passionate, motivated, hands on Solutions Engineer with over 14 years experience of designing and developing applications for the enterprise. Have a passion for designing cloud native serverless first architectures ensuring development teams can deliver products in a truly effective efficient manner.
+
+      A natural leader, with an ability to motivate others, earn trust and build strong relationships which have ensured a proven track record of consistently delivering.
 education:
     - degree: BEng Hons in Computer Science
       university: University of Ulster
@@ -37,28 +30,16 @@ experiences:
       time: 2019 - Present
       company: Workgrid, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        <b>Roles and Responsibilities</b>
+
+        - TBD
     - role: Principal Software Engineer
       time: 2014 - 2019
       company: Liberty IT, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        <b>Roles and Responsibilities</b>
+
+        - TBD
 projects:
     title: Projects
     intro: >
