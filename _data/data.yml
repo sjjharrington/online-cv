@@ -15,7 +15,7 @@ sidebar:
 
       - item: Reading
 
-      - item: Hiking/long walks
+      - item: Hiking/Walking
 
 career-profile:
     title: Career Profile
@@ -24,7 +24,7 @@ career-profile:
 
       A natural leader, with an ability to motivate others, earn trust and build strong relationships which have ensured a proven track record of consistently delivering.
 education:
-    - degree: BEng Hons in Computer Science
+    - degree: Computing Science BSc (Hons)
       university: University of Ulster
       time: 2003 - 2007
 experiences:
@@ -45,15 +45,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Throughout my 14 year career at Liberty IT I have had the opportunity to lead several development teams on business critical deliverables. These are some of my most recent projects.
+      Throughout my 14 year career at Liberty IT I have had the opportunity to lead several development teams on business critical deliverables, including -
     assignments:
-      - title: TBC
+      - title: Channel Strategy
         tagline: "Solutions Engineer responsible for"
 
-      - title: TBC
+      - title: Integrations
         tagline: "Principal Engineer responsible for"
 
-      - title: TBC
+      - title: QBE
         tagline: "Principal Engineer responsible for"
 
 skills:
