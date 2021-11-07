@@ -20,7 +20,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Highly skilled, passionate, motivated, hands on Solutions Engineer with over 14 years experience of designing and developing applications for the enterprise. Have a passion for designing cloud native serverless first architectures ensuring development teams can deliver products in a truly effective efficient manner.
+      Highly skilled, passionate, motivated, hands-on Solutions Engineer with over 14 years’ experience of designing and developing applications for the enterprise. Have a passion for designing cloud native serverless first architectures ensuring development teams deliver products in a truly effective efficient manner.
 
       A natural leader, with an ability to motivate others, earn trust and build strong relationships which have ensured a proven track record of consistently delivering.
 education:
@@ -33,49 +33,49 @@ experiences:
       company: Workgrid, Belfast
       details: |
         <b>Roles and Responsibilities</b>
-        * Functional Area:  You will have accountability for one of Workgrid’s functional area’s day-to-day operations.
-        * Engineering Vision: Develop an engineering vision and strategy to create high-performing software development teams. Understand industry trends in software development and where Workgrid should be headed.
-        * Architecture / Scalability / Performance: Work with engineering teams to ensure we have a highly scalable and performant platform across the globe. Ensures system, technical, and product architectures are aligned with business objectives.
-        * Security: Work with our security architects and engineers to ensure security is at the forefront of everything we do.
-        * Quality: Develop strategies to ensure software quality practices are consistently embedded across each of our engineering teams. You promote high standards in quality.
-        * Coaching and Mentorship: Lead and coach members of our product & engineering teams. Work with individuals & teams to build and grow their capabilities, skills, and identify opportunities for product, design, and engineering staff to develop their careers at Workgrid. In this role you may have a variety of roles that report to you.
-        * Team Development: Defines team member objectives, performance targets and development plans, and ensures alignment with project and organization objectives.
-        * Hiring & Recruiting: Working with our Talent / HR team, develop hiring, interview, and recruitment plans to build a pipeline of talented software engineers including employees and contractors.
-        * Collaboration: Represent the product engineering team across the Workgrid organization. In this role, you will collaborate frequently with our various business teams.
-        * Team Morale and Climate: Ensure the product engineering organization is empowered, excited, and growing in their careers.
-        * Operations: At Workgrid, our product engineering teams follow a ‘you build it, you own it’ mindset. You would be responsible technical operations of the plan, in addition to building the platform.
-        * Process: In this role you will be responsible for ensuring the approach to product definition & engineering is finely tuned and highly performing. 
+        * Provide technical and business leadership and drive innovation in team to rapidly and effectively deliver great software that adds real value to our customers. 
+        * Remain "hands-on" technically while also providing strategic direction to the business with the end goal of creating a cohesive vision of usable products.
+        * Provide feedback in a timely, effective and actionable format that allows individual team members to improve.
+        * Champion the importance and principles of writing clean, quality, high performing and secure code within team and the wider organisation.
+        * Be a leader and have strong commercial acumen. Can identify and communicate how new product offerings can add value to our customers.
+        * Share knowledge and expertise across the wider organisation or beyond through networks, events and communities of practice.
+        * Collaborate with the Technical Architects and CTO to Identify and implement innovative technologies that align with the long-term organisation strategy.
+        * Share expertise and mentor the Engineering community of the organisation, ensuring the team is continuously improving and learning together to meet current and future product needs.
+        * Build great customer relationships by listening and empathizing with our customers and using creative thinking practices and processes to provide them with the solutions they really need.  
+        * Review and provide input to architectural designs to drive value for our customers. Identify opportunities where the team can innovate and add value for our customers.
+        * Provide technical expertise to the team. Identify and resolve technical issues when required.
+        * Have a comprehensive understanding of how the products worked on fit into the larger business market and organisation and use this to make technical decisions on the project.
+        * Have ownership of the architecture and design on a portfolio of products.
+        * Support the pursuit of engineering excellence through the adoption of the Well Architected Framework.
+
     - role: Principal Software Engineer
       time: 2015 - 2019
       company: Liberty IT, Belfast
       details: |
         <b>Roles and Responsibilities</b>
-        * Functional Area:  You will have accountability for one of Workgrid’s functional area’s day-to-day operations.
-        * Engineering Vision: Develop an engineering vision and strategy to create high-performing software development teams. Understand industry trends in software development and where Workgrid should be headed.
-        * Architecture / Scalability / Performance: Work with engineering teams to ensure we have a highly scalable and performant platform across the globe. Ensures system, technical, and product architectures are aligned with business objectives.
-        * Security: Work with our security architects and engineers to ensure security is at the forefront of everything we do.
-        * Quality: Develop strategies to ensure software quality practices are consistently embedded across each of our engineering teams. You promote high standards in quality.
-        * Coaching and Mentorship: Lead and coach members of our product & engineering teams. Work with individuals & teams to build and grow their capabilities, skills, and identify opportunities for product, design, and engineering staff to develop their careers at Workgrid. In this role you may have a variety of roles that report to you.
-        * Team Development: Defines team member objectives, performance targets and development plans, and ensures alignment with project and organization objectives.
-        * Hiring & Recruiting: Working with our Talent / HR team, develop hiring, interview, and recruitment plans to build a pipeline of talented software engineers including employees and contractors.
-        * Collaboration: Represent the product engineering team across the Workgrid organization. In this role, you will collaborate frequently with our various business teams.
-        * Team Morale and Climate: Ensure the product engineering organization is empowered, excited, and growing in their careers.
-        * Operations: At Workgrid, our product engineering teams follow a ‘you build it, you own it’ mindset. You would be responsible technical operations of the plan, in addition to building the platform.
-        * Process: In this role you will be responsible for ensuring the approach to product definition & engineering is finely tuned and highly performing.
+        * Lead several development teams across US, Ireland and India ensuring alignment with project and organisation objectives delivering solutions that exceed customer expectations.
+        * Work as a technical lead across the whole software development lifecycle.
+        * Collaborate with Product Owners to analyse their business problems, identify their needs and design (and implement) solutions that meet their need.
+        * Coaching and Mentorship of Development teams providing feedback when necessary. 
+        * Work with individuals & teams to build and grow their capabilities, skills, and identify opportunities to develop their careers.
+        * Seek opportunities for the team to collaborate with and learn from Engineers across the organisation through internal networks, events and communities of practice.
+        * Proactive mindset in relation to continuous improvement and innovation thus encourages team to do the same.
+        * Collaborate with Architecture team to ensure developed solution is highly scalable, secure and performant.
         
 projects:
     title: Projects
     intro: >
-      Throughout my 14 year career at Liberty IT I have had the opportunity to lead several development teams on business critical deliverables, including -
+      Throughout my 14-year career at Liberty IT I have had the opportunity to lead several development teams on business critical deliverables, including -
     assignments:
       - title: Channel Strategy
-        tagline: "Solutions Engineer responsible for"
+        tagline: "Solutions Engineer responsible for
+        Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, CloudFormation, Lambda, DynamoDb and others."
 
       - title: Integrations
-        tagline: "Principal Engineer responsible for"
+        tagline: "Principal Engineer responsible for Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, CloudFormation, Lambda, DynamoDb and others. React "
 
       - title: QBE
-        tagline: "Principal Engineer responsible for"
+        tagline: "Principal Engineer responsible for Technologies used: "
 
 skills:
     title: Skills &amp; Proficiency
@@ -105,6 +105,7 @@ skills:
       - name: Software Testing Practices and Disciplines
         level: 85%
 
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+
