@@ -29,7 +29,7 @@ education:
       time: 2003 - 2007
 experiences:
     - role: Solutions Engineer
-      time: 2019 - Present
+      time: 2018 - Present
       company: Workgrid, Belfast
       details: |
         <b>Roles and Responsibilities</b>
@@ -49,7 +49,7 @@ experiences:
         * Support the pursuit of engineering excellence through the adoption of the Well Architected Framework.
 
     - role: Principal Software Engineer
-      time: 2015 - 2019
+      time: 2015 - 2018
       company: Liberty IT, Belfast
       details: |
         <b>Roles and Responsibilities</b>
@@ -68,14 +68,18 @@ projects:
       Throughout my 14-year career at Liberty IT I have had the opportunity to lead several development teams on business critical deliverables, including -
     assignments:
       - title: Channel Strategy
-        tagline: "Solutions Engineer responsible for
-        Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, CloudFormation, Lambda, DynamoDb and others."
+        tagline: "Solutions Engineer working with Head of Product and CTO to drive out Go forward channel strategy. 
+        Workers, unsure of where to look for information while at the same time being overnotified of unimportant information, lose focus, get frustrated and exhausted in their work. Workgrid, looking to determine what channels have the most impact and smallest effort, wants to determine which channels to invest in for the short and long term.
+        Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, elasticsearch, Kibana, CloudFormation, Lambda, DynamoDb and others. Azure Bot Service, Bot Framework"
 
-      - title: Integrations
-        tagline: "Principal Engineer responsible for Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, CloudFormation, Lambda, DynamoDb and others. React "
+      - title: Integrations & Microapps
+        tagline: "With integrations to today's most popular systems, Workgrid provides employees with access to everything they need to know and do right at their fingertips, all in a unified experience. Microapps proactively presents data so employees don’t have to waste time hunting for what they need. 
+        Principal Engineer responsible for analysing, designing and implementing key 'Expense and Procurenment' and HR Integrations. Workgrid’s Time Planner App is a centralized tool for planning and communicating time away from work, travel events, and other calendar items, providing visibility among employees and work groups in a simple and efficient way.
+        Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, CloudFormation, Lambda, DynamoDb and others. Leading team in building content-rich and high-quality UI's with React. Testing frameworks Artillery, Newman Postman, Jest"
 
       - title: QBE
-        tagline: "Principal Engineer responsible for Technologies used: "
+        tagline: "Principal Engineer responsible for delivering a new client application for selling and maintaining auto policies.  The application enables the agent to increase sales through competitive pricing, coverage options, discounts, and benefits.
+        Technologies used: Java, SoapUI, Docker, Jenkins, Testing frameworks such as unittest, mock, and cucumber/gherkin."
 
 skills:
     title: Skills &amp; Proficiency
