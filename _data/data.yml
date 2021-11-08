@@ -20,9 +20,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Highly skilled, passionate, motivated, hands-on Solutions Engineer with over 14 years’ experience of designing and developing applications for the enterprise. Have a passion for designing cloud native serverless first architectures ensuring development teams deliver products in a truly effective efficient manner.
+      Highly skilled, motivated, hands-on Solutions Engineer with over 14 years’ experience of designing and developing applications for the enterprise. Continuously strives to improve processes to ensure reliable, timely, and high quality solutions. 
+      
+      Passion for designing cloud native serverless first architectures ensuring development teams deliver products in a truly effective efficient manner. 
 
       A natural leader, with an ability to motivate others, earn trust and build strong relationships which have ensured a proven track record of consistently delivering.
+
 education:
     - degree: Computing Science BSc (Hons)
       university: University of Ulster
@@ -47,6 +50,7 @@ experiences:
         * Have a comprehensive understanding of how the products worked on fit into the larger business market and organisation and use this to make technical decisions on the project.
         * Have ownership of the architecture and design on a portfolio of products.
         * Support the pursuit of engineering excellence through the adoption of the Well Architected Framework.
+        * Scales themselves by delegating effectively; ensures tasks are completed as specified. Proactive in identifying and clearing roadblocks for the team.
 
     - role: Principal Software Engineer
       time: 2015 - 2018
