@@ -8,21 +8,21 @@ sidebar:
     email: harrysteven37@hotmail.com
     phone: 07812987207
     linkedin: steven-harrington-a0bab8115
+    twitter: sharrington1984
     github: sjjharrington
 
     interests:
-      - item: Football
-
+      - item: Football/Gaelic Football
+      - item: Coaching
       - item: Reading
-
       - item: Hiking/Walking
 
 career-profile:
     title: Career Profile
     summary: |
-      Highly skilled, motivated, hands-on Solutions Engineer with over 14 years’ experience of designing and developing applications for the enterprise. Continuously strives to improve processes to ensure reliable, timely, and high quality solutions. 
-      
-      Passion for designing cloud native serverless first architectures ensuring development teams deliver products in a truly effective efficient manner. 
+      Highly skilled, motivated, hands-on Solutions Engineer with over 14 years’ experience of designing and developing applications for the enterprise. Continuously strives to improve processes to ensure reliable, timely, and high quality solutions.
+
+      Passion for designing cloud native serverless first architectures ensuring development teams deliver products in a truly effective efficient manner.
 
       A natural leader, with an ability to motivate others, earn trust and build strong relationships which have ensured a proven track record of consistently delivering.
 
@@ -36,7 +36,7 @@ experiences:
       company: Workgrid, Belfast
       details: |
         <b>Roles and Responsibilities</b>
-        * Provide technical and business leadership and drive innovation in team to rapidly and effectively deliver great software that adds real value to our customers. 
+        * Provide technical and business leadership and drive innovation in team to rapidly and effectively deliver great software that adds real value to our customers.
         * Remain "hands-on" technically while also providing strategic direction to the business with the end goal of creating a cohesive vision of usable products.
         * Provide feedback in a timely, effective and actionable format that allows individual team members to improve.
         * Champion the importance and principles of writing clean, quality, high performing and secure code within team and the wider organisation.
@@ -44,7 +44,7 @@ experiences:
         * Share knowledge and expertise across the wider organisation or beyond through networks, events and communities of practice.
         * Collaborate with the Technical Architects and CTO to Identify and implement innovative technologies that align with the long-term organisation strategy.
         * Share expertise and mentor the Engineering community of the organisation, ensuring the team is continuously improving and learning together to meet current and future product needs.
-        * Build great customer relationships by listening and empathizing with our customers and using creative thinking practices and processes to provide them with the solutions they really need.  
+        * Build great customer relationships by listening and empathizing with our customers and using creative thinking practices and processes to provide them with the solutions they really need.
         * Review and provide input to architectural designs to drive value for our customers. Identify opportunities where the team can innovate and add value for our customers.
         * Provide technical expertise to the team. Identify and resolve technical issues when required.
         * Have a comprehensive understanding of how the products worked on fit into the larger business market and organisation and use this to make technical decisions on the project.
@@ -60,24 +60,24 @@ experiences:
         * Lead several development teams across US, Ireland and India ensuring alignment with project and organisation objectives delivering solutions that exceed customer expectations.
         * Work as a technical lead across the whole software development lifecycle.
         * Collaborate with Product Owners to analyse their business problems, identify their needs and design (and implement) solutions that meet their need.
-        * Coaching and Mentorship of Development teams providing feedback when necessary. 
+        * Coaching and Mentorship of Development teams providing feedback when necessary.
         * Work with individuals & teams to build and grow their capabilities, skills, and identify opportunities to develop their careers.
         * Seek opportunities for the team to collaborate with and learn from Engineers across the organisation through internal networks, events and communities of practice.
         * Proactive mindset in relation to continuous improvement and innovation thus encourages team to do the same.
         * Collaborate with Architecture team to ensure developed solution is highly scalable, secure and performant.
-        
+
 projects:
     title: Projects
     intro: >
-      Throughout my 14-year career at Liberty IT I have had the opportunity to lead several development teams on business critical deliverables, including -
+      Throughout my 18-year career at Liberty IT I have had the opportunity to lead several development teams on business critical deliverables, including -
     assignments:
       - title: Channel Strategy
-        tagline: "Solutions Engineer working with Head of Product and CTO to drive out Go forward channel strategy. 
+        tagline: "Solutions Engineer working with Head of Product and CTO to drive out Go forward channel strategy.
         Workers, unsure of where to look for information while at the same time being overnotified of unimportant information, lose focus, get frustrated and exhausted in their work. Workgrid, looking to determine what channels have the most impact and smallest effort, wants to determine which channels to invest in for the short and long term.
         Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, elasticsearch, Kibana, CloudFormation, Lambda, DynamoDb and others. Azure Bot Service, Bot Framework"
 
       - title: Integrations & Microapps
-        tagline: "With integrations to today's most popular systems, Workgrid provides employees with access to everything they need to know and do right at their fingertips, all in a unified experience. Microapps proactively presents data so employees don’t have to waste time hunting for what they need. 
+        tagline: "With integrations to today's most popular systems, Workgrid provides employees with access to everything they need to know and do right at their fingertips, all in a unified experience. Microapps proactively presents data so employees don’t have to waste time hunting for what they need.
         Principal Engineer responsible for analysing, designing and implementing key 'Expense and Procurenment' and HR Integrations. Workgrid’s Time Planner App is a centralized tool for planning and communicating time away from work, travel events, and other calendar items, providing visibility among employees and work groups in a simple and efficient way.
         Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, CloudFormation, Lambda, DynamoDb and others. Leading team in building content-rich and high-quality UI's with React. Testing frameworks Artillery, Newman Postman, Jest"
 
@@ -109,7 +109,7 @@ skills:
 
       - name: Agile Delivery Methods
         level: 85%
-      
+
       - name: Software Testing Practices and Disciplines
         level: 85%
 
