@@ -1,5 +1,5 @@
 sidebar:
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Steven Harrington
     tagline: Solutions Engineer
@@ -8,8 +8,6 @@ sidebar:
     email: harrysteven37@hotmail.com
     phone: 07812987207
     linkedin: steven-harrington-a0bab8115
-    twitter: sharrington1984
-    github: sjjharrington
 
     interests:
       - item: Football/Gaelic Football
@@ -20,11 +18,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Highly skilled, motivated, hands-on Solutions Engineer with over 14 years’ experience of designing and developing applications for the enterprise. Continuously strives to improve processes to ensure reliable, timely, and high quality solutions.
+      Innovative and highly skilled, motivated, hands-on Solutions Engineer with extensive experience in developing SaaS enterprise enterprise software within distributed teams.
 
-      Passion for designing cloud native serverless first architectures ensuring development teams deliver products in a truly effective efficient manner.
+      Strong knowledge of modern cloud architectures and technologies, particularly AWS. Experienced in fast-paced startup and high-growth environments, with a strong focus on delivering value to customers.
 
-      A natural leader, with an ability to motivate others, earn trust and build strong relationships which have ensured a proven track record of consistently delivering.
+      A natural leader with exceptional skills in motivating teams, fostering trust, and cultivating strong relationships, leading to a proven track record of consistent success.
 
 education:
     - degree: Computing Science BSc (Hons)
@@ -71,6 +69,10 @@ projects:
     intro: >
       Throughout my 18-year career at Liberty IT I have had the opportunity to lead several development teams on business critical deliverables, including -
     assignments:
+
+      - title: Digital Assistant
+        tagline: "Solutions Engineer working with Head of Product, CTO and Architect to implement An AI-driven assistant that helps employees access information, reminders, and tasks without switching between multiple applications."
+        Technologies used: Azure OpenAI (LLM & Embedding Models). AWS services including Sagemaker, BedRock, OpenSearch. API Gateway, S3, SNS, SQS DynamoDb. Jupyter Notebooks"
       - title: Channel Strategy
         tagline: "Solutions Engineer working with Head of Product and CTO to drive out Go forward channel strategy.
         Workers, unsure of where to look for information while at the same time being overnotified of unimportant information, lose focus, get frustrated and exhausted in their work. Workgrid, looking to determine what channels have the most impact and smallest effort, wants to determine which channels to invest in for the short and long term.
@@ -112,8 +114,5 @@ skills:
 
       - name: Software Testing Practices and Disciplines
         level: 85%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
 
 
