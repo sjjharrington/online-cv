@@ -71,7 +71,7 @@ projects:
     assignments:
 
       - title: Digital Assistant
-        tagline: "Solutions Engineer working with Head of Product, CTO and Architect to implement An AI-driven assistant that helps employees access information, reminders, and tasks without switching between multiple applications."
+        tagline: "Solutions Engineer working with Head of Product, CTO and Architect to implement An AI-driven assistant that helps employees access information, reminders, and tasks without switching between multiple applications.
         Technologies used: Azure OpenAI (LLM & Embedding Models). AWS services including Sagemaker, BedRock, OpenSearch. API Gateway, S3, SNS, SQS DynamoDb. Jupyter Notebooks"
       - title: Channel Strategy
         tagline: "Solutions Engineer working with Head of Product and CTO to drive out Go forward channel strategy.
