@@ -88,32 +88,30 @@ projects:
         tagline: "Principal Engineer responsible for delivering a new client application for selling and maintaining auto policies.  The application enables the agent to increase sales through competitive pricing, coverage options, discounts, and benefits.
         Technologies used: Java, SoapUI, Docker, Jenkins, Testing frameworks such as unittest, mock, and cucumber/gherkin."
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Serverless First Development
-        level: 85%
+#     toolset:
+#       - name: Serverless First Development
+#         level: 85%
 
-      - name: Service Architecture Design
-        level: 85%
+#       - name: Service Architecture Design
+#         level: 85%
 
-      - name: Event Driven Architecture Design
-        level: 90%
+#       - name: Event Driven Architecture Design
+#         level: 90%
 
-      - name: Cloud (AWS) DevOps
-        level: 90%
+#       - name: Cloud (AWS) DevOps
+#         level: 90%
 
-      - name: Javascript, Typescript, Node.js, React
-        level: 85%
+#       - name: Javascript, Typescript, Node.js, React
+#         level: 85%
 
-      - name: Java
-        level: 85%
+#       - name: Java
+#         level: 85%
 
-      - name: Agile Delivery Methods
-        level: 85%
+#       - name: Agile Delivery Methods
+#         level: 85%
 
-      - name: Software Testing Practices and Disciplines
-        level: 85%
-
-
+#       - name: Software Testing Practices and Disciplines
+#         level: 85%
