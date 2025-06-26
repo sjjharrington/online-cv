@@ -18,7 +18,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Innovative and highly skilled, motivated, hands-on Solutions Engineer with extensive experience in developing SaaS enterprise enterprise software within distributed teams.
+      Innovative and highly skilled, motivated, hands-on Solutions Engineer with extensive experience in developing SaaS enterprise software within distributed teams.
 
       Strong knowledge of modern cloud architectures and technologies, particularly AWS. Experienced in fast-paced startup and high-growth environments, with a strong focus on delivering value to customers.
 
@@ -73,10 +73,11 @@ projects:
       - title: Digital Assistant
         tagline: "Solutions Engineer working with Head of Product, CTO and Architect to implement An AI-driven assistant that helps employees access information, reminders, and tasks without switching between multiple applications.
         Technologies used: Azure OpenAI (LLM & Embedding Models). AWS services including Sagemaker, BedRock, OpenSearch. API Gateway, S3, SNS, SQS DynamoDb. Jupyter Notebooks"
+
       - title: Channel Strategy
         tagline: "Solutions Engineer working with Head of Product and CTO to drive out Go forward channel strategy.
         Workers, unsure of where to look for information while at the same time being overnotified of unimportant information, lose focus, get frustrated and exhausted in their work. Workgrid, looking to determine what channels have the most impact and smallest effort, wants to determine which channels to invest in for the short and long term.
-        Technologies used: AWS services including KMS, Secrets Manager, CloudWatch, elasticsearch, Kibana, CloudFormation, Lambda, DynamoDb and others. Azure Bot Service, Bot Framework"
+        Technologies used: Azure Bot Service, Bot Framework. AWS services including KMS, Secrets Manager, CloudWatch, elasticsearch, Kibana, CloudFormation, Lambda, DynamoDb and others."
 
       - title: Integrations & Microapps
         tagline: "With integrations to today's most popular systems, Workgrid provides employees with access to everything they need to know and do right at their fingertips, all in a unified experience. Microapps proactively presents data so employees don’t have to waste time hunting for what they need.
